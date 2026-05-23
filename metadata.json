@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Forex Trading Journal \u0026 Analytics",
+  "description": "ระบบบันทึกและวิเคราะห์การเทรด Forex อัจฉริยะ ซิงค์รายงานจาก MT5 คาร์เลนดาร์กำไรขาดทุนรายวัน และวิเคราะห์กลยุทธ์ส่วนตัวด้วย Gemini AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
